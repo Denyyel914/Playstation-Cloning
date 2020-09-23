@@ -236,10 +236,10 @@ a {
 
 
 .last {
-    background-image: url(//media.playstation.com/is/image/SCEA/the-last-of-us-part-ii-homepage-marquee-desktop-01-ps4-tm-02oct19?$native_nt$);
+    background-image: url(https://i.pinimg.com/originals/18/94/a0/1894a02c044470f1ef97040ebb8f28d7.jpg);
     background-position: center;
     background-size: cover;
-    height: 550px;
+    height: 650px;
     width: 100%;
 }
 
@@ -258,7 +258,7 @@ a {
 }
 
 .ghost {
-    background-image: url(//media.playstation.com/is/image/SCEA/ghost-of-tsushima-stateofplay-homepage-marquee-desktop-01-ps4-14may20-en-us?$native_nt$);
+    background-image: url(https://gamingbolt.com/wp-content/uploads/2019/12/ghost-of-tsushima-image-5.jpg);
     background-position: center;
     background-size: cover;
     height: 650px;
@@ -391,7 +391,7 @@ a {
 }
 
 .final-fantasy {
-    background-image: url(//media.playstation.com/is/image/SCEA/marvels-iron-man-vr-homepage-marquee-desktop-01-ps4-26jun20-en-us?$native_nt$);
+    background-image: url(https://www.fanbyte.com/wp-content/uploads/2020/04/ironmanvr.jpg?x96128);
     background-position: center;
     background-size: cover;
     height: 550px;
@@ -475,16 +475,6 @@ a {
  .see:hover {
    opacity: 0.9;
 }
-
-footer {
-    background-color: #00439c;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
-    font-size: 1rem;
-}
-
-
 
 @media(max-width: 700px) {
     /* .cards {
