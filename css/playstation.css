@@ -476,6 +476,16 @@ a {
    opacity: 0.9;
 }
 
+footer {
+    background-color: #00439c;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1rem;
+}
+
+
+
 @media(max-width: 700px) {
     /* .cards {
         grid-template-columns: repeat(2,1fr);
