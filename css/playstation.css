@@ -391,7 +391,7 @@ a {
 }
 
 .final-fantasy {
-    background-image: url('https://www.fanbyte.com/wp-content/uploads/2020/04/ironmanvr.jpg?x96128');
+    background-image: url(https://www.fanbyte.com/wp-content/uploads/2020/04/ironmanvr.jpg?x96128);
     background-position: center;
     background-size: cover;
     height: 550px;
